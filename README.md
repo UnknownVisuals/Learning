@@ -1,3 +1,5 @@
 # LEARNING
 
-This is my proces of learning web development
+This is my proces of learning web development.
+
+- Unknown Visuals
