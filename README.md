@@ -11,3 +11,4 @@ This is Example of Sub Header
 ## LOCAL Development
 
 1. Open index.html in your browser.
+2. Have f*n.
